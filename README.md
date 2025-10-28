@@ -1,6 +1,16 @@
 ## Hey 👋, Glad to see you here! Check out this repository to learn more about me 🤓
-I'm Phuc, my full name is Nguyen Dang Phuc
-### Education:
+🔭 I'm __Phuc__, my full name is __Nguyen Dang Phuc__, or you can call me __Mochi__. \
+Curently I'm a __Front-End Web__. But in the future, I wanna be Full-Stack Web Developer👨‍💻
+
+😍 I'm pationate on:
+* Solving problem.
+* Learning new techs.
+* Buiding Morden and Refined website.
+
+😁 My hobbies:
+* Listenning to musics.
+* Playing games.
+* Try to do a new things...
 
 <!--
 **dangphuc2611/dangphuc2611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
