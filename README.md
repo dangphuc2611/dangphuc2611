@@ -79,4 +79,4 @@ Here are some ideas to get you started:
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 # Roadmap.sh:
-[![roadmap.sh](https://roadmap.sh/card/tall/6728425331d65c235d79789e?variant=dark&roadmaps=frontend%2Cjavascript%2Creact%2Cnextjs)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/tall/6900c34632ad652bc84ed12d?variant=dark)](https://roadmap.sh)
