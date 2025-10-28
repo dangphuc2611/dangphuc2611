@@ -1,6 +1,6 @@
 ## Hey 👋, Glad to see you here! Check out this repository to learn more about me 🤓
 🔭 I'm __Phuc__, my full name is __Nguyen Dang Phuc__, or you can call me __Mochi__. \
-Curently I'm a __Front-End Web__. But in the future, I wanna be Full-Stack Web Developer👨‍💻
+I'm a __Software Engineer__ 👨‍💻 from Vietnam 🇻🇳.
 
 😍 I'm pationate on:
 * Solving problem.
